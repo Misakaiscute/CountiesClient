@@ -1,7 +1,7 @@
 @extends('necessary_html')
 
 @section('content')
-    <div class="">
+    <div class="center">
         <table>
             <tr>
                 <th>Megye</th>
